@@ -5,7 +5,5 @@
     "require": {
         "greenpeace/planet4-master-theme" : "dev-main"
     },
-    "scripts": {
-        "site:custom" : []
-    }
+    "data_from": "korea"
 }
