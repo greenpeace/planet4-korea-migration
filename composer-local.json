@@ -6,7 +6,6 @@
     "greenpeace/planet4-child-theme-korea": "1.1.*",
     "greenpeace/planet4-gpea-plugin-blocks": "0.7.*",
     "wpackagist-plugin/classic-editor": "1.*",
-    "wpackagist-plugin/shortcode-ui": "0.*",
-    "wpackagist-plugin/easy-table-of-contents":"2.0.*"
+    "wpackagist-plugin/shortcode-ui": "0.*"
   }
 }
