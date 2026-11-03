@@ -3,6 +3,7 @@
   "description": "Greenpeace Planet 4",
   "license": "MIT",
   "require": {
+    "greenpeace/planet4-master-theme": "dev-PLANET-8358_test_migration",
     "greenpeace/planet4-child-theme-korea": "1.1.*",
     "greenpeace/planet4-gpea-plugin-blocks": "0.7.*",
     "wpackagist-plugin/classic-editor": "1.*",
